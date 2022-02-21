@@ -1,0 +1,190 @@
+body
+{
+    padding 0;
+    margin: 0;
+font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-size: 16px;
+    
+        
+}
+{
+    box-sizing: border-box;
+}
+h1, h2, h3, h4,  h5, h6 
+{
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+    color: #ffd100;
+}
+h2{
+    font-size: 50px;
+    margin-bottom: 58px;
+    color: white;
+}
+h3 {
+    font-size: 25px;
+}
+a
+{
+    text-decoration: none;
+}
+section {
+    padding-top: 113px;
+        background-color: black; 
+}
+p {
+    margin: 0;
+}s
+ul, li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+        width: 1170px;
+        margin: 0 auto;
+    }
+
+
+.header
+{
+    background: url('img/golf-787826_1920%20(2).jpg') no-repeat center top / cover;
+        padding-top: 57px;
+    color: white;
+    padding-bottom: 322px;
+}
+header a
+{
+    color: white
+}
+.logo{
+    margin-right: 69px;
+}
+.menu 
+{
+    display: flex;
+}
+
+.menu li a
+{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    color: #ffd100;
+}
+.menu li {
+    margin-right: 40px;
+    
+}
+.tel {
+    font-size: 17px;
+    text-decoration: none;
+    margin-left: auto;
+        letter-spacing: 0.1em;
+    color: #ffd100;
+}
+.nav 
+{
+    display: flex;
+    align-items: center;
+    padding: 57px;
+}
+.offer {
+    text-transform: uppercase;
+    margin-top: 146px;
+ 
+}
+.offer p{
+font-size: 30px;
+    letter-spacing: 0.1em;
+    text-shadow: 0 4px 10px #000;
+}
+.offer h1
+{ font-size: 100px;
+    margin-bottom: 19px;
+    margin-top: -9px;
+    letter-spacing: 0.02em;
+       text-shadow: 0 4px 10px #000;
+}
+.btn{
+    display: block;
+    font-size: 17px;
+  
+    text-align: center;
+    letter-spacing: 0.1em;
+    padding: 17px 47px;
+    border: 1px solid #d4ae00;
+    border-color: #ffd100;
+    background-color: #ffd100;
+    width: 238px;
+    text-decoration: none; 
+    color: #202020;
+    font-weight: 700;
+    transition: 0.3s linear;
+}
+.btn:hover 
+{
+    background-color: #ffd100;
+    color: black;
+    border-color: #ffd100;
+}
+
+.description {
+    display: flex;
+    justify-content: space-between;
+}
+.description p {
+    font-family: 'Montserrat';
+    font-weight: normal;
+    text-align: justify;
+    line-height: 1.62em;
+}
+.desc-left {
+    width: 567px;
+    color: #ffd100
+}
+.desk-right {
+    width:567px;
+    color: #ffd100;
+}
+.gallery {
+   
+  margin-top:67px;
+    justify-content: center;
+    
+    display: flex;
+   
+}
+.boom{
+    width: 1519px;
+    height: 70px;
+    background-color: #ffd100;
+    margin-top: -16px;
+    
+}
+.wut3{
+    width: 570px;
+    height: 344px;
+    padding-bottom: 80px;
+    
+}
+.footer{
+text-align: center;
+    
+}
+
+  .desk-right li{
+    color: #ffd100; 
+    content: "▪"; 
+    padding-right: 10px; 
+   }
+
+    
+
+
+
+

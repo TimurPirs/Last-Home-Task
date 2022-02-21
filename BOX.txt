@@ -1,0 +1,7 @@
+display: flex;
+    flex-wrap: wrap;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 75px 10px 20px;
+    width: 430.75px;
+    min-height: auto;
+    min-width: auto;
